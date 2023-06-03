@@ -34,3 +34,13 @@
   a:hover {
     color: rgb(219, 139, 78);
   }
+
+  
+  .custom_back {
+    background-color: rgb(255, 156, 81);
+    color: white !important;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border: white 1px solid;
+     
+  }
